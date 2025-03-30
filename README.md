@@ -1,5 +1,3 @@
-# sea-first-project
+# sea-blended-14-homework-#01
 
 go-it-learning-2025
-
-This is my first project
